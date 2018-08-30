@@ -82,9 +82,9 @@
 			"wechat": "/images/微信收钱码.jpeg",
 			"alipay": "/images/支付宝收钱码.jpeg",
 			"title": "",
-			"button": "捐赠",
-			"wechatText": "微信捐赠",
-			"alipayText": "支付宝捐赠"
+			"button": "赞赏",
+			"wechatText": "微信赞赏",
+			"alipayText": "支付宝赞赏"
 		},
 		"anchor-navigation-ex": {
 			"associatedWithSummary": false,
