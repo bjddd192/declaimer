@@ -1,0 +1,146 @@
+{
+	"gitbook": "3.2.3",
+	"title": "朗读者",
+	"description": "收录央视《朗读者》精彩语句与经典文章",
+	"author": "Mars丶小石头 <bjddd192@163.com>",
+	"language": "zh-hans",
+	"isbn": "",
+	"links": {
+		"sharing": {
+			"all": null,
+			"facebook": null,
+			"google": null,
+			"twitter": null,
+			"weibo": null
+		},
+		"sidebar": {
+			"我的博客": "https://www.zorin.xin "
+		}
+	},
+	"plugins": [
+		"highlight",
+		"-search",
+		"-sharing",
+		"fontsettings",
+		"livereload",
+		"-lunr",
+		"search-pro-kui",
+		"sharing-plus",
+		"github",
+		"donate",
+		"splitter",
+		"anchor-navigation-ex",
+		"prism",
+		"disqus",
+		"tbfed-pagefooter",
+		"favicon",
+		"rss"
+	],
+	"pluginsConfig": {
+		"sharing": {
+			"douban": false,
+			"facebook": false,
+			"google": false,
+			"hatenaBookmark": false,
+			"instapaper": false,
+			"line": false,
+			"linkedin": false,
+			"messenger": false,
+			"pocket": false,
+			"qq": false,
+			"qzone": false,
+			"stumbleupon": false,
+			"twitter": false,
+			"viber": false,
+			"vk": false,
+			"weibo": false,
+			"whatsapp": false,
+			"all": [
+				"douban",
+				"facebook",
+				"google",
+				"hatenaBookmark",
+				"instapaper",
+				"line",
+				"linkedin",
+				"messenger",
+				"pocket",
+				"qq",
+				"qzone",
+				"stumbleupon",
+				"twitter",
+				"viber",
+				"vk",
+				"weibo",
+				"whatsapp"
+			]
+		},
+		"github": {
+			"url": "https://github.com/bjddd192"
+		},
+		"donate": {
+			"wechat": "/images/微信收钱码.jpeg",
+			"alipay": "/images/支付宝收钱码.jpeg",
+			"title": "",
+			"button": "捐赠",
+			"wechatText": "微信捐赠",
+			"alipayText": "支付宝捐赠"
+		},
+		"anchor-navigation-ex": {
+			"associatedWithSummary": false,
+			"showLevel": true,
+			"multipleH1": false,
+			"mode": "float",
+			"showGoTop": true,
+			"float": {
+				"showLevelIcon": false,
+				"level1Icon": "fa fa-hand-o-right",
+				"level2Icon": "fa fa-hand-o-right",
+				"level3Icon": "fa fa-hand-o-right"
+			},
+			"pageTop": {
+				"showLevelIcon": false,
+				"level1Icon": "fa fa-hand-o-right",
+				"level2Icon": "fa fa-hand-o-right",
+				"level3Icon": "fa fa-hand-o-right"
+			}
+		},
+		"theme-default": {
+			"showLevel": true
+		},
+		"fontsettings": {
+			"theme": "white",
+			"family": "serif",
+			"size": 2
+		},
+		"prism": {
+			"css": [
+				"prismjs/themes/prism-tomorrow.css"
+			]
+		},
+		"disqus": {
+			"shortName": "http-localhost-4000-16"
+		},
+		"tbfed-pagefooter": {
+			"copyright": "Copyright © Mars丶小石头 2018",
+			"modify_label": "该文件修订时间：",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		"favicon": {
+			"shortcut": "favicon.ico",
+			"bookmark": "favicon.ico"
+		},
+		"rss": {
+			"title": "朗读者",
+			"description": "收录央视《朗读者》精彩语句与经典文章",
+			"author": "Mars丶小石头 <bjddd192@163.com>",
+			"feed_url": "http://gitbook.bjddd192.com/rss",
+			"site_url": "http://gitbook.bjddd912.com/",
+			"managingEditor": "bjddd192@163.com",
+			"webMaster": "bjddd192@163.com",
+			"categories": [
+				"gitbook"
+			]
+		}
+	}
+}
