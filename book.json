@@ -79,8 +79,8 @@
 			"url": "https://github.com/bjddd192"
 		},
 		"donate": {
-			"wechat": "/images/微信收钱码.jpeg",
-			"alipay": "/images/支付宝收钱码.jpeg",
+			"wechat": "images/微信收钱码.jpeg",
+			"alipay": "images/支付宝收钱码.jpeg",
 			"title": "",
 			"button": "赞赏",
 			"wechatText": "微信赞赏",
