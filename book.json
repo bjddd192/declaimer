@@ -5,18 +5,6 @@
 	"author": "Mars丶小石头 <bjddd192@163.com>",
 	"language": "zh-hans",
 	"isbn": "",
-	"links": {
-		"sharing": {
-			"all": null,
-			"facebook": null,
-			"google": null,
-			"twitter": null,
-			"weibo": null
-		},
-		"sidebar": {
-			"我的博客": "https://www.zorin.xin "
-		}
-	},
 	"plugins": [
 		"highlight",
 		"-search",
@@ -25,16 +13,16 @@
 		"livereload",
 		"-lunr",
 		"search-pro-kui",
-		"sharing-plus",
-		"github",
+		"-sharing-plus",
+		"-github",
 		"donate",
 		"splitter",
 		"anchor-navigation-ex",
 		"prism",
-		"disqus",
+		"-disqus",
 		"tbfed-pagefooter",
 		"favicon",
-		"rss"
+		"-rss"
 	],
 	"pluginsConfig": {
 		"sharing": {
