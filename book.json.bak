@@ -109,7 +109,9 @@
 			"showLevel": true
 		},
 		"fontsettings": {
-			"size": 4
+			"theme": "white",
+			"family": "serif",
+			"size": 2
 		},
 		"prism": {
 			"css": [
