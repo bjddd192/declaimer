@@ -22,7 +22,8 @@
 		"-disqus",
 		"tbfed-pagefooter",
 		"favicon",
-		"-rss"
+		"-rss",
+		"expandable-chapters-small"
 	],
 	"pluginsConfig": {
 		"sharing": {
@@ -67,16 +68,17 @@
 			"url": "https://github.com/bjddd192"
 		},
 		"donate": {
-			"wechat": "images/微信收钱码.jpeg",
-			"alipay": "images/支付宝收钱码.jpeg",
+			"wechat": "/pictures/微信收钱码.jpeg",
+			"alipay": "/pictures/支付宝收钱码.jpeg",
 			"title": "",
 			"button": "赞赏",
 			"wechatText": "微信赞赏",
 			"alipayText": "支付宝赞赏"
 		},
 		"anchor-navigation-ex": {
-			"associatedWithSummary": false,
 			"showLevel": true,
+			"associatedWithSummary": false,
+			"printLog": false,
 			"multipleH1": false,
 			"mode": "float",
 			"showGoTop": true,
@@ -94,7 +96,7 @@
 			}
 		},
 		"theme-default": {
-			"showLevel": true
+			"showLevel": false
 		},
 		"fontsettings": {
 			"size": 3
