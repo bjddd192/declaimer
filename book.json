@@ -22,8 +22,7 @@
 		"-disqus",
 		"tbfed-pagefooter",
 		"favicon",
-		"-rss",
-		"expandable-chapters-small"
+		"-rss"
 	],
 	"pluginsConfig": {
 		"sharing": {
