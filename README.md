@@ -17,3 +17,7 @@ http://tv.cctv.com/lm/ldz/
 请收藏，请分享，孩子写作文肯定有一天能用上！
 
 整理朗读者的文章，留给孩子后面好好学习。
+
+language
+
+gogogo

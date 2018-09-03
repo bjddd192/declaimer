@@ -10,7 +10,7 @@
 		"-search",
 		"-sharing",
 		"fontsettings",
-		"livereload",
+		"-livereload",
 		"-lunr",
 		"search-pro-kui",
 		"-sharing-plus",
