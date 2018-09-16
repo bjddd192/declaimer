@@ -18,8 +18,8 @@ http://tv.cctv.com/lm/ldz/
 
 整理朗读者的文章，留给孩子后面好好学习。
 
-language
+[《朗读者》嘉宾朗读纯享版](https://www.ximalaya.com/renwen/6770360/)
 
-gogogo
+[《朗读者 第二季》朗读纯享版](https://www.ximalaya.com/renwen/15388579/)
 
 http://toutiao.sanhao.com/news-detail-15396.html
