@@ -14,9 +14,9 @@ git push origin :gh-pages
 git checkout --orphan gh-pages
 # 发布文件，整理与推送
 git rm -f --cached -r .
-sleep 15
+sleep 5
 git clean -df
-sleep 15
+sleep 5
 # rm -rf *~
 # echo "*~" > .gitignore
 echo "_book" >> .gitignore
